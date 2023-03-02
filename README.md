@@ -1,2 +1,3 @@
 My firt readme
-I'm her to update you 
+I'm here to update you 
+This is the last mandatory task for git project 
